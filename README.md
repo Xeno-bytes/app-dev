@@ -1,5 +1,5 @@
 # app-dev
-** My first repository **
+**My first repository**
 
 ### My favorite movies:
 - Hello, Love, Goodbye
